@@ -1,0 +1,2 @@
+# SWiki
+Star Wars Wiki
